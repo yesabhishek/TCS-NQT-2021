@@ -46,6 +46,19 @@ TCS NQT 2021 Prep Guide🎉
 * Mathematical Operational Arrangement
 * Symbols and Notations
 
+## TCS Logical Verbal Ability Topics😎
+
+* Reading and Comprehension
+* Synonyms and Antonyms
+* Grammar
+* Cloze Test
+* Spelling
+* Selecting words
+* Passage Ordering
+* Error Identification
+* Error Correction
+* Sentence Completion
+
 ## TCS Coding Question Topics 👨‍💻
 
 * HCF,LCM,GCD
